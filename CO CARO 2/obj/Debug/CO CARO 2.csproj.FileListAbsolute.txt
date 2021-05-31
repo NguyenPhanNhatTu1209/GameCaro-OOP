@@ -1,0 +1,104 @@
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.csprojResolveAssemblyReference.cache
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.fmCoCaro.resources
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.Properties.Resources.resources
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.csproj.GenerateResource.Cache
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\CO CARO 2\CO CARO 2\bin\Debug\CO CARO 2.exe
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\CO CARO 2\CO CARO 2\bin\Debug\CO CARO 2.pdb
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.exe
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.pdb
+C:\Users\Phong\Documents\Visual Studio 2012\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.fmLuatChoi.resources
+C:\Users\Phong\Documents\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.exe
+C:\Users\Phong\Documents\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.pdb
+C:\Users\Phong\Documents\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\bin\Debug\CO CARO 2.exe
+C:\Users\Phong\Documents\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\bin\Debug\CO CARO 2.pdb
+C:\Users\Phong\Documents\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.csprojResolveAssemblyReference.cache
+C:\Users\Phong\Documents\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.fmLuatChoi.resources
+C:\Users\Phong\Documents\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.fmCoCaro.resources
+C:\Users\Phong\Documents\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.Properties.Resources.resources
+C:\Users\Phong\Documents\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.csproj.GenerateResource.Cache
+D:\Lap trinh C#\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.exe
+D:\Lap trinh C#\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.pdb
+D:\Lap trinh C#\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\bin\Debug\CO CARO 2.exe
+D:\Lap trinh C#\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\bin\Debug\CO CARO 2.pdb
+D:\Lap trinh C#\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.csprojResolveAssemblyReference.cache
+D:\Lap trinh C#\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.fmLuatChoi.resources
+D:\Lap trinh C#\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.fmCoCaro.resources
+D:\Lap trinh C#\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.Properties.Resources.resources
+D:\Lap trinh C#\Visual Studio 2013\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.csproj.GenerateResource.Cache
+D:\Lap trinh C#\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.exe
+D:\Lap trinh C#\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.pdb
+D:\Lap trinh C#\Projects\WindowFrom\CO CARO 2\CO CARO 2\bin\Debug\CO CARO 2.exe
+D:\Lap trinh C#\Projects\WindowFrom\CO CARO 2\CO CARO 2\bin\Debug\CO CARO 2.pdb
+D:\Lap trinh C#\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.csprojResolveAssemblyReference.cache
+D:\Lap trinh C#\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.fmLuatChoi.resources
+D:\Lap trinh C#\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.fmCoCaro.resources
+D:\Lap trinh C#\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.Properties.Resources.resources
+D:\Lap trinh C#\Projects\WindowFrom\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.csproj.GenerateResource.Cache
+D:\Lập Trình Hướng Đối Tượng\test caro\CO CARO 2\CO CARO 2\bin\Debug\CO CARO 2.exe
+D:\Lập Trình Hướng Đối Tượng\test caro\CO CARO 2\CO CARO 2\bin\Debug\CO CARO 2.pdb
+D:\Lập Trình Hướng Đối Tượng\test caro\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.csprojAssemblyReference.cache
+D:\Lập Trình Hướng Đối Tượng\test caro\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.fmLuatChoi.resources
+D:\Lập Trình Hướng Đối Tượng\test caro\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.fmCoCaro.resources
+D:\Lập Trình Hướng Đối Tượng\test caro\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.Properties.Resources.resources
+D:\Lập Trình Hướng Đối Tượng\test caro\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.csproj.GenerateResource.cache
+D:\Lập Trình Hướng Đối Tượng\test caro\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.csproj.CoreCompileInputs.cache
+D:\Lập Trình Hướng Đối Tượng\test caro\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.exe
+D:\Lập Trình Hướng Đối Tượng\test caro\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.pdb
+D:\Lập trình hướng đối tượng\CO CARO 2\CO CARO 2\bin\Debug\CO CARO 2.exe.config
+D:\Lập trình hướng đối tượng\CO CARO 2\CO CARO 2\bin\Debug\CO CARO 2.exe
+D:\Lập trình hướng đối tượng\CO CARO 2\CO CARO 2\bin\Debug\CO CARO 2.pdb
+D:\Lập trình hướng đối tượng\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.csprojAssemblyReference.cache
+D:\Lập trình hướng đối tượng\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.fmLuatChoi.resources
+D:\Lập trình hướng đối tượng\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.fmCoCaro.resources
+D:\Lập trình hướng đối tượng\CO CARO 2\CO CARO 2\obj\Debug\CO_CARO_2.Properties.Resources.resources
+D:\Lập trình hướng đối tượng\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.csproj.GenerateResource.cache
+D:\Lập trình hướng đối tượng\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.csproj.CoreCompileInputs.cache
+D:\Lập trình hướng đối tượng\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.exe
+D:\Lập trình hướng đối tượng\CO CARO 2\CO CARO 2\obj\Debug\CO CARO 2.pdb
+D:\Lập trình hướng đối tượng\CO CARO 2 - Copy\CO CARO 2\bin\Debug\CO CARO 2.exe.config
+D:\Lập trình hướng đối tượng\CO CARO 2 - Copy\CO CARO 2\bin\Debug\CO CARO 2.exe
+D:\Lập trình hướng đối tượng\CO CARO 2 - Copy\CO CARO 2\bin\Debug\CO CARO 2.pdb
+D:\Lập trình hướng đối tượng\CO CARO 2 - Copy\CO CARO 2\bin\Debug\Interop.WMPLib.dll
+D:\Lập trình hướng đối tượng\CO CARO 2 - Copy\CO CARO 2\bin\Debug\AxInterop.WMPLib.dll
+D:\Lập trình hướng đối tượng\CO CARO 2 - Copy\CO CARO 2\obj\Debug\CO CARO 2.csprojAssemblyReference.cache
+D:\Lập trình hướng đối tượng\CO CARO 2 - Copy\CO CARO 2\obj\Debug\Interop.WMPLib.dll
+D:\Lập trình hướng đối tượng\CO CARO 2 - Copy\CO CARO 2\obj\Debug\AxInterop.WMPLib.dll
+D:\Lập trình hướng đối tượng\CO CARO 2 - Copy\CO CARO 2\obj\Debug\CO CARO 2.csproj.ResolveComReference.cache
+D:\Lập trình hướng đối tượng\CO CARO 2 - Copy\CO CARO 2\obj\Debug\CO_CARO_2.fmLuatChoi.resources
+D:\Lập trình hướng đối tượng\CO CARO 2 - Copy\CO CARO 2\obj\Debug\CO_CARO_2.fmCoCaro.resources
+D:\Lập trình hướng đối tượng\CO CARO 2 - Copy\CO CARO 2\obj\Debug\CO_CARO_2.Properties.Resources.resources
+D:\Lập trình hướng đối tượng\CO CARO 2 - Copy\CO CARO 2\obj\Debug\CO CARO 2.csproj.GenerateResource.cache
+D:\Lập trình hướng đối tượng\CO CARO 2 - Copy\CO CARO 2\obj\Debug\CO CARO 2.exe
+D:\Lập trình hướng đối tượng\CO CARO 2 - Copy\CO CARO 2\obj\Debug\CO CARO 2.pdb
+D:\Lập Trình Hướng Đối Tượng\test caro\CO CARO 2 - Copy\CO CARO 2\bin\Debug\CO CARO 2.exe.config
+D:\Lập Trình Hướng Đối Tượng\test caro\CO CARO 2 - Copy\CO CARO 2\bin\Debug\CO CARO 2.exe
+D:\Lập Trình Hướng Đối Tượng\test caro\CO CARO 2 - Copy\CO CARO 2\bin\Debug\CO CARO 2.pdb
+D:\Lập Trình Hướng Đối Tượng\test caro\CO CARO 2 - Copy\CO CARO 2\bin\Debug\Interop.WMPLib.dll
+D:\Lập Trình Hướng Đối Tượng\test caro\CO CARO 2 - Copy\CO CARO 2\bin\Debug\AxInterop.WMPLib.dll
+D:\Lập Trình Hướng Đối Tượng\test caro\CO CARO 2 - Copy\CO CARO 2\obj\Debug\CO CARO 2.csprojAssemblyReference.cache
+D:\Lập Trình Hướng Đối Tượng\test caro\CO CARO 2 - Copy\CO CARO 2\obj\Debug\Interop.WMPLib.dll
+D:\Lập Trình Hướng Đối Tượng\test caro\CO CARO 2 - Copy\CO CARO 2\obj\Debug\AxInterop.WMPLib.dll
+D:\Lập Trình Hướng Đối Tượng\test caro\CO CARO 2 - Copy\CO CARO 2\obj\Debug\CO CARO 2.csproj.ResolveComReference.cache
+D:\Lập Trình Hướng Đối Tượng\test caro\CO CARO 2 - Copy\CO CARO 2\obj\Debug\CO_CARO_2.fmLuatChoi.resources
+D:\Lập Trình Hướng Đối Tượng\test caro\CO CARO 2 - Copy\CO CARO 2\obj\Debug\CO_CARO_2.fmCoCaro.resources
+D:\Lập Trình Hướng Đối Tượng\test caro\CO CARO 2 - Copy\CO CARO 2\obj\Debug\CO_CARO_2.Properties.Resources.resources
+D:\Lập Trình Hướng Đối Tượng\test caro\CO CARO 2 - Copy\CO CARO 2\obj\Debug\CO CARO 2.csproj.GenerateResource.cache
+D:\Lập Trình Hướng Đối Tượng\test caro\CO CARO 2 - Copy\CO CARO 2\obj\Debug\CO CARO 2.csproj.CoreCompileInputs.cache
+D:\Lập Trình Hướng Đối Tượng\test caro\CO CARO 2 - Copy\CO CARO 2\obj\Debug\CO CARO 2.exe
+D:\Lập Trình Hướng Đối Tượng\test caro\CO CARO 2 - Copy\CO CARO 2\obj\Debug\CO CARO 2.pdb
+D:\Lập trình hướng đối tượng\Đồ án\CO CARO 2\bin\Debug\CO CARO 2.exe.config
+D:\Lập trình hướng đối tượng\Đồ án\CO CARO 2\bin\Debug\CO CARO 2.exe
+D:\Lập trình hướng đối tượng\Đồ án\CO CARO 2\bin\Debug\CO CARO 2.pdb
+D:\Lập trình hướng đối tượng\Đồ án\CO CARO 2\bin\Debug\Interop.WMPLib.dll
+D:\Lập trình hướng đối tượng\Đồ án\CO CARO 2\bin\Debug\AxInterop.WMPLib.dll
+D:\Lập trình hướng đối tượng\Đồ án\CO CARO 2\obj\Debug\CO CARO 2.csprojAssemblyReference.cache
+D:\Lập trình hướng đối tượng\Đồ án\CO CARO 2\obj\Debug\Interop.WMPLib.dll
+D:\Lập trình hướng đối tượng\Đồ án\CO CARO 2\obj\Debug\AxInterop.WMPLib.dll
+D:\Lập trình hướng đối tượng\Đồ án\CO CARO 2\obj\Debug\CO CARO 2.csproj.ResolveComReference.cache
+D:\Lập trình hướng đối tượng\Đồ án\CO CARO 2\obj\Debug\CO_CARO_2.fmLuatChoi.resources
+D:\Lập trình hướng đối tượng\Đồ án\CO CARO 2\obj\Debug\CO_CARO_2.fmCoCaro.resources
+D:\Lập trình hướng đối tượng\Đồ án\CO CARO 2\obj\Debug\CO_CARO_2.Properties.Resources.resources
+D:\Lập trình hướng đối tượng\Đồ án\CO CARO 2\obj\Debug\CO CARO 2.csproj.GenerateResource.cache
+D:\Lập trình hướng đối tượng\Đồ án\CO CARO 2\obj\Debug\CO CARO 2.exe
+D:\Lập trình hướng đối tượng\Đồ án\CO CARO 2\obj\Debug\CO CARO 2.pdb
+D:\Lập Trình Hướng Đối Tượng\Đồ án\CO CARO 2\obj\Debug\CO CARO 2.csproj.CoreCompileInputs.cache

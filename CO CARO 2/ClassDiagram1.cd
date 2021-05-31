@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CO_CARO_2.fmCoCaro">
+    <Position X="0.75" Y="0.5" Width="2.25" />
+    <Members>
+      <Method Name="chơiVớiMáyToolStripMenuItem_Click" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BZW4AgRQQCAEIJoAABDAQgECoghCIBAVoBAAARhIAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CO_CARO_2.fmLuatChoi">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fmLuatChoi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CO_CARO_2.C_OCo">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAABAAAAAAgAAAAAAAAEAEAAAAAAAAAQAAAgIA=</HashCode>
+      <FileName>C_OCo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CO_CARO_2.C_DieuKhien">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>pgAAAEAAAEAAEAkgCCirKhBCBgIACwAACQHIqEEVqhA=</HashCode>
+      <FileName>C_DieuKhien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CO_CARO_2.C_BanCo">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAJAAgAAACAAAAQAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>C_BanCo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
